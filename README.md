@@ -4,7 +4,7 @@ Crypto Trading Unleashed - Strategies and Tactics for Consistent Profits
 
 ### Golden Cross and Death Cross Alert
 
-```
+```pine
 //@version=5
 
 indicator(title='Golden Cross and Death Cross Alert', shorttitle='PM Golden and Death Cross', overlay=true)
