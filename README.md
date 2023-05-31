@@ -71,3 +71,6 @@ plotshape(short_signal ? high  : na,
      style=shape.labeldown, size=size.tiny, color=short_color, textcolor=color.new(color.white, 0))
 
 ```
+---
+### Website: http://www.paulmizel.com
+---
