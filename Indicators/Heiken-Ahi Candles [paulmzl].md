@@ -1,5 +1,5 @@
 
-## Heiken-Ashi Candles [paulmzl]
+### Heiken-Ashi Candles [paulmzl]
 
 ```js
 //@version=5
