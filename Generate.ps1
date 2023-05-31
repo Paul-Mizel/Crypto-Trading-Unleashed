@@ -1,0 +1,1 @@
+Get-Content Header.md, ./Indicators/*.md | Set-Content Readme.md
