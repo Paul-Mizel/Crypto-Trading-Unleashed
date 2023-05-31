@@ -8,7 +8,6 @@ Crypto Trading Unleashed - Strategies and Tactics for Consistent Profits
 ---
 ### Website: http://www.paulmizel.com
 ---
-
 ### Golden Cross and Death Cross [paulmzl]
 
 ```js
